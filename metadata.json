@@ -1,0 +1,6 @@
+{
+  "name": "AI Fitness Coach",
+  "description": "Personal AI Fitness Coach & Gym Buddy with voice, memory, workout tracking, and gaali-enabled roast mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
